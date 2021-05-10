@@ -1,7 +1,7 @@
 # Apache-Spark-1
-In this project we will be looking at the various properties of the mushrooms by using Apache Spark SQL and check if they are edible or poisonous by using machine learning.
+In this project we will be looking at the various properties of the mushrooms by using Apache Spark SQL and check if they are edible or poisonous.
 
-The following properties are:
+The following properties are
 
 classes:                            edible=e, poisonous=p
 
